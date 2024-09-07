@@ -1,0 +1,10 @@
+.detailsWrapper {
+    display: flex;
+    gap: 30px;
+  }
+  
+  .detailsWrapper ul {
+    display: flex;
+    gap: 10px;
+  }
+  
